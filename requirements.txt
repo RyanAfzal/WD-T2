@@ -1,0 +1,30 @@
+# Core utilities
+requests
+python-dotenv
+tqdm
+
+# API / scraping
+groq
+SPARQLWrapper
+beautifulsoup4
+
+# Graph
+networkx
+node2vec
+pyvis
+
+# NLP
+gensim
+
+# ML
+scikit-learn
+
+# Browser automation
+playwright
+
+# Async
+nest_asyncio
+
+# Deep Learning
+torch
+torch-geometric
